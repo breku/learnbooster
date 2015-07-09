@@ -1,0 +1,296 @@
+1. Wiatr wskazywany przez wimpel na jachcie podczas żeglugi to wiatr:
+A) pozorny
+b) własny
+c) rzeczywisty
+d) żadna odpowiedź nie jest prawidłowa
+2. Wiatr wskazywany przez wimpel na jachcie stojącym w porcie to wiatr:
+a) pozorny
+b) własny
+C) rzeczywisty
+d) żadna odpowiedź nie jest prawidłowa
+3. Wiatr wskazywany przez flagę na brzegu to wiatr:
+a) pozorny
+b) własny
+C) rzeczywisty
+d) żadna odpowiedź nie jest prawidłowa
+4. Wiatr własny to:
+a) wiatr wynikający z dyszowego działania foka
+b) wiatr pokazywany przez wimpel na jachcie podczas żeglugi
+c) wiatr pokazywany przez flagę na brzegu
+D) wiatr wynikający z ruchu jachtu
+5. Wiatr pozorny to:
+a) wiatr wynikający z dyszowego działania foka
+B) wiatr pokazywany przez wimpel na jachcie podczas żeglugi
+c) wiatr pokazywany przez flagę na brzegu
+d) wiatr wynikający z chwilowego zwiększenia siły wiatru (szkwał)
+6. W bezwietrzną pogodę jacht płynie na silniku. Na jego osprzęt działa wiatr:
+a) pozorny
+B) własny
+c) rzeczywisty
+d) wiatr wynikający z chwilowego zwiększenia siły wiatru (szkwał)
+7. W przypadku szkwału (chwilowym wzroście prędkości wiatru) wiatr pozorny:
+a) zmieni kierunek na bardziej ostry
+B) zmieni kierunek na bardziej pełny
+c) nie zmieni kierunku, tylko zwiększy się jego siła
+d) nie zmieni kierunku, tylko zmniejszy się jego siła
+8. Po przejściu szkwału (zmniejszeniu prędkości wiatru) wiatr pozorny:
+A) zmieni kierunek na bardziej ostry
+b) zmieni kierunek na bardziej pełny
+c) nie zmieni kierunku, tylko zwiększy się jego siła
+d) nie zmieni kierunku, tylko zmniejszy się jego siła
+9. Jeżeli płyniemy na żaglach i uruchomimy pędnik, to wiatr pozorny:
+A) zmieni kierunek na bardziej ostry
+b) zmieni kierunek na bardziej pełny
+c) nie zmieni kierunku, tylko zwiększy się jego siła
+d) nie zmieni kierunku, tylko zmniejszy się jego siła
+10. Jeżeli płyniemy na żaglach i silniku, to po wyłączeniu silnika wiatr pozorny:
+a) zmieni kierunek na bardziej ostry
+B) zmieni kierunek na bardziej pełny
+c) nie zmieni kierunku, tylko zwiększy się jego siła
+d) nie zmieni kierunku, tylko zmniejszy się jego siła
+11. Wzrost prędkości jachtu płynącego na żaglach spowoduje odczuwanie wiatru pozornego jako:
+a) bardziej pełnego i silniejszego
+B) bardziej ostrego i silniejszego
+c) bardziej pełnego i słabszego
+d) bardziej ostrego i słabszego
+12. Wzrost siły wiatru rzeczywistego spowoduje odczuwanie wiatru pozornego na jachcie płynącym pod żaglami jako:
+A) bardziej pełnego i silniejszego
+b) bardziej ostrego i silniejszego
+c) bardziej pełnego i słabszego
+d) bardziej ostrego i słabszego
+13. Jacht płynący prawym halsem główny żagiel ma na burcie:
+a) nawietrznej
+B) lewej
+c) prawej
+d) żadna odpowiedź nie jest prawidłowa
+14. Jacht płynący lewym halsem główny żagiel ma na burcie:
+a) nawietrznej
+b) lewej
+C) prawej
+d) żadna odpowiedź nie jest prawidłowa
+15. O halsie jachtu płynącym na motyla ze spinakerem decyduje:
+a) położenie foka
+B) położenie grotżagla
+c) położenie spinakera - spinakerbomu
+d) burta, na której siedzi sternik
+16. Jacht płynący z grotżaglem na prawej burcie, a genuą na lewej burcie płynie halsem:
+a) nie można określić halsu – (przyjmujemy, że prawym)
+b) prawym
+c) nie można określić halsu – (przyjmujemy, że lewym)
+D) lewym
+17. Określenie nazwy halsu (prawy – lewy) odpowiada określeniu:
+a) burty, na której znajduje się żagiel trójkątny położony najbliżej rufy
+b) burty, na której znajduje się główny żagiel (zazwyczaj grotżagiel)
+c) burty, na której znajduje się największy żagiel (zazwyczaj grotżagiel)
+D) burty, na którą wieje wiatr (nawietrznej)
+18. Jacht płynący bez grotżagla, z fokiem na prawej burcie płynie halsem:
+a) nie można określić halsu – (przyjmujemy, że prawym)
+b) prawym
+c) nie można określić halsu – (przyjmujemy, że lewym)
+D) lewym
+19. Zwrot przez sztag polega na przejściu linii wiatru:
+a) dziobem od baksztagu jednego halsu do baksztagu przeciwnego
+b) rufą od bajdewindu jednego halsu do bajdewindu halsu przeciwnego
+c) rufą od baksztagu jednego halsu do baksztagu przeciwnego
+D) dziobem od bajdewindu jednego halsu do bajdewindu halsu przeciwnego
+20. Zwrot przez rufę polega na przejściu linii wiatru:
+a) dziobem od baksztagu jednego halsu do baksztagu przeciwnego
+b) rufą od bajdewindu jednego halsu do bajdewindu halsu przeciwnego
+C) rufą od baksztagu jednego halsu do baksztagu przeciwnego
+d) dziobem od bajdewindu jednego halsu do bajdewindu halsu przeciwnego
+21. Jacht mający wiatr od dziobu po kątem ok. 45 płynie:
+a) fordewindem
+b) półwiatrem
+c) baksztagiem
+D) bajdewindem
+22. Jacht mający wiatr od rufy po kątem ok. 45 płynie:
+a) fordewindem
+b) półwiatrem
+C) baksztagiem
+d) bajdewindem
+23. Jacht mający wiatr od dziobu po kątem ok. 90 płynie:
+a) fordewindem
+B) półwiatrem
+c) baksztagiem
+d) bajdewindem
+24. Jacht mający wiatr od rufy płynie:
+A) fordewindem
+b) półwiatrem
+c) baksztagiem
+d) bajdewindem
+25. Przejście od baksztagu jednego halsu do półwiatru tego samego halsu to:
+A) ostrzenie
+b) odpadanie
+c) zwrot przez rufę
+d) zwrot przez sztag
+26. Przejście od półwiatru jednego halsu do baksztagu tego samego halsu to:
+a) ostrzenie
+B) odpadanie
+c) zwrot przez rufę
+d) zwrot przez sztag
+27. Przejście od bajdewindu jednego halsu do półwiatru tego samego halsu to:
+a) ostrzenie
+B) odpadanie
+c) zwrot przez rufę
+d) zwrot przez sztag
+28. Przejście od półwiatru jednego halsu do bajdewindu tego samego halsu to:
+A) ostrzenie
+b) odpadanie
+c) zwrot przez rufę
+d) zwrot przez sztag
+29. Przejście od baksztagu jednego halsu do fordewindu tego samego halsu to:
+a) ostrzenie
+B) odpadanie
+c) zwrot przez rufę
+d) zwrot przez sztag
+30. Przejście od fordewindu jednego halsu do baksztagu tego samego halsu to:
+A) ostrzenie
+b) odpadanie
+c) zwrot przez rufę
+d) zwrot przez sztag
+31. Siła wyporu jachtu zależy od:
+a) konstrukcji jachtu (balastowe – mieczowe)
+b) kursu względem wiatru
+c) kształtu kadłuba
+D) ciężaru jachtu
+32. Siła hydrodynamiczna działająca na jacht nie wpływa w kursie półwiatr na:
+a) dryf jachtu
+B) prędkość jachtu
+c) przechył jachtu
+d) położenie środka ciężkości jachtu
+33. Aby zmniejszyć dryf w kursie półwiatr należy:
+a) lekko przebrać grotżagiel
+b) podnieść miecz do połowy
+c) lekko przebrać foka
+D) opuścić maksymalnie miecz i płetwę sterową
+34. Siła aerodynamiczna to:
+A) siła, która powstaje na żaglach na wskutek działania wiatru
+b) opór, jaki stawia wiatr kadłubowi płynącego jachtu
+c) siła, która porusza wimpel
+d) siła, którą mierzymy za pomocą anemometru
+35. Siła hydrodynamiczna jest odpowiedzią kadłuba jachtu żaglowego na:
+a) przechylanie się jachtu
+b) zafalowanie akwenu
+c) opuszczenie miecza i płetwy sterowej
+D) działanie siły aerodynamicznej
+36. Siła ciągu działająca na żagle zwiększa się w przypadku:
+a) zwiększenia kąta natarcia wiatru na żagiel do 45
+B) zmniejszenia przechyłu przez balastowanie jachtu
+c) wyluzowanie żagli do łopotu
+d) zwiększenia przechyłu jachtu
+37. Podniesienie płetwy sterowej o 45 spowoduje:
+a) polepszenie sterowności
+B) pogorszenie sterowności
+c) zwiększenie przechyłu
+d) zmniejszenie dryfu
+38. Podniesienie miecza obrotowego do połowy spowoduje
+a) nawietrzność jachtu
+B) zawietrzność jachtu
+c) zwiększenie przechyłu
+d) zmniejszenie dryfu
+39. Przesunięcie załogi na dziób spowoduje
+A) ostrzenie jachtu
+b) odpadanie jachtu
+c) zwiększenie przechyłu
+d) nie wpłynie na żaden z w/w parametrów ruchu jachtu
+40. Przesunięcie załogi na rufę spowoduje
+A) zawietrzność jachtu
+b) nawietrzność jachtu
+c) zwiększenie przechyłu
+d) nie wpłynie na żaden z w/w parametrów ruchu jachtu
+41. Duże zwiększenie przechyłu jachtu na burtę zawietrzną w kursie fordewind spowoduje:
+A) ostrzenie jachtu
+b) odpadanie jachtu
+c) zwiększenie dryfu
+d) nie wpłynie na żaden z w/w parametrów ruchu jachtu
+42. Środek bocznego oporu przesunie się do przodu w przypadku:
+a) przesunięcia załogi na rufę
+b) podniesienie miecza do połowy
+c) podniesienie płetwy sterowej o 45
+D) przesunięcia załogi na dziób
+43. Zmniejszenie powierzchni grota na slupie zrównoważonym żaglowo spowoduje:
+a) nawietrzność jachtu
+B) zawietrzność jachtu
+c) zwiększenie przechyłu
+d) zwiększenie kąta natarcia wiatru na zarefowany żagiel
+44. Wyluzowanie grota na slupie zrównoważonym żaglowo spowoduje:
+a) nawietrzność jachtu
+B) zawietrzność jachtu
+c) zwiększenie przechyłu
+d) nie wpłynie na żaden z w/w parametrów ruchu jachtu
+45. Wybranie grota na slupie zrównoważonym żaglowo spowoduje:
+A) nawietrzność jachtu
+b) zawietrzność jachtu
+c) zmniejszenie przechyłu
+d) nie wpłynie na żaden z w/w parametrów ruchu jachtu
+46. Wyluzowanie foka na slupie zrównoważonym żaglowo spowoduje:
+A) nawietrzność jachtu
+b) zawietrzność jachtu
+c) zwiększenie przechyłu
+d) nie wpłynie na żaden z w/w parametrów ruchu jachtu
+47. Wybranie foka na slupie zrównoważonym żaglowo spowoduje:
+a) nawietrzność jachtu
+B) zawietrzność jachtu
+c) zmniejszenie przechyłu
+d) nie wpłynie na żaden z w/w parametrów ruchu jachtu
+48. Zmniejszenie powierzchni foka lub jego zrzucenie na slupie zrównoważonym żaglowo spowoduje:
+A) nawietrzność jachtu
+b) zawietrzność jachtu
+c) zwiększenie przechyłu
+d) przesunięcie środka ciężkości
+49. Optymalny kąt natarcia wiatru na żagiel przy kursach ostrych to:
+A) 10 - 20
+b) 45
+c) 60
+d) 90
+50. Jeżeli na kursie ostrym na grotżaglu przy maszcie powstaje fałda, to można ją zlikwidować poprzez:
+A) odpadanie
+b) wybieranie foka
+c) ostrzenie
+d) luzowanie grota
+51. Jeżeli na grotżaglu przy maszcie powstaje fałda, to można ją zlikwidować poprzez:
+A) luzowanie foka
+b) wybieranie foka
+c) ostrzenie
+d) luzowanie grota
+52. Przebranie żagli powoduje:
+a) zmniejszenie dryfu jachtu
+b) zmniejszenie przechyłu jachtu
+C) zmniejszenie prędkości jachtu
+d) zmniejszenie możliwości wywrotki
+53. Optymalny kąt ustawienia steru, przy którym otrzymamy największy
+moment skręcający jachtu to:
+a) 5 -10
+B) 30 - 45
+c) 60 - 80
+d) 90
+54. Największą siłą działającą na ster przy wyłożeniu go na burtę jest:
+a) siła skręcająca
+B) siła hamująca
+c) siła hamująca i skręcająca się równoważą
+d) nie można określić, która z tych sił jest większa
+55. Jachty mieczowe wywracają się po przechyleniu się około:
+a) 20 - 30
+b) 30 - 40
+c) 40 - 50
+D) 50 - 80
+56. Duża ilość wody w zęzie powoduje:
+a) zwiększenie stateczności jachtu i zmniejszenie siły wyporu
+B) zmniejszenie stateczności jachtu i wzrost siły wyporu
+c) nie wpływa na stateczność jachtu
+d) zwiększenie stateczności jachtu poprzez zwiększenie siły wyporu
+57. Początkowe przechylanie się jachtu balastowego powoduje:
+a) wzrost siły aerodynamicznej na żaglu
+b) wzrost siły hydrodynamicznej
+C) wzrost momentu prostującego
+d) zauważalny wzrost prędkości z powodu zmniejszenie oporu czołowego kadłuba
+58. Przechył jachtu mieczowego płynącego bajdewindem zmniejszy się po :
+A) wyciągnięciu miecza
+b) podebraniu żagli
+c) przemieszczeniu załogi na dziób
+d) odpadnięciu do półwiatru bez zmiany położenia żagli
+59. Przechył jachtu płynącego półwiatrem zwiększy się po:
+a) wyciągnięciu miecza
+B) podebraniu żagli
+c) przemieszczeniu załogi na dziób
+d) wyostrzeniu bez zmiany położenia żagli

@@ -2,6 +2,7 @@ package com.brekol.console;
 
 import com.brekol.file.FileReader;
 import com.brekol.model.Entry;
+import com.brekol.util.Console;
 
 import java.util.List;
 
@@ -17,6 +18,8 @@ public class TestRunner {
         final List<Entry> entries = fileReader.readQuestionFile();
         shuffle(entries);
         final TerminalRunner terminalRunner = new TerminalRunner();
+
+        Console.log("Starting test...");
         terminalRunner.runTerminal(entries);
 
     }

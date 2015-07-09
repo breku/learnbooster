@@ -29,42 +29,74 @@ public class TerminalRunner {
     private Entry currentQuestion;
 
     private int numberOfCorrectAnswers = 0;
-    private int totalNumberOfQuestions;
+    private int numberOfQuestionsAnswered = 0;
 
 
     public void runTerminal(List<Entry> entries) {
         terminal.enterPrivateMode();
-        totalNumberOfQuestions = entries.size();
-        final ListIterator<Entry> iterator = entries.listIterator();
+        printInfo();
+
+
+        final Key key = getKey();
+        if (quit(key)) {
+            terminal.exitPrivateMode();
+            return;
+        }
+
+        while (true) {
+            if(entries.size() > 0){
+                boolean qClicked = startTest(entries);
+                if (qClicked) {
+                    getKey();
+                    break;
+                }
+            }else {
+                print("No more incorrect questions");
+                getKey();
+                break;
+            }
+
+        }
+
+        terminal.exitPrivateMode();
+    }
+
+    private boolean startTest(List<Entry> entries) {
+        numberOfCorrectAnswers = 0;
+        numberOfQuestionsAnswered = 0;
+        ListIterator<Entry> iterator = entries.listIterator();
         printNextQuestion(iterator);
 
         while (true) {
 
+            final Key key = getKey();
 
-            final Key key = getKey(terminal);
 
             if (quit(key)) {
-                break;
+                printEnd();
+                return true;
             } else if (answering(key) && currentQuestion != null) {
                 if (correct(key)) {
                     printCorrect();
                     waitSomeMiliSec(500);
                     numberOfCorrectAnswers++;
+                    iterator.remove();
                 } else {
                     printWrong();
-                    getKey(terminal);
+                    getKey();
 
                 }
+                numberOfQuestionsAnswered++;
                 printNextQuestion(iterator);
-
-
+            } else if (currentQuestion == null) {
+                return false;
             }
 
-
         }
+    }
 
-
-        terminal.exitPrivateMode();
+    private void printInfo() {
+        print("To start click any key, if you want to quit during the test click q");
     }
 
     private void printNextQuestion(ListIterator<Entry> iterator) {
@@ -73,6 +105,7 @@ public class TerminalRunner {
             printEntry(currentQuestion);
         } else {
             printEnd();
+            print("To run again with questions you answered incorrectly press any key");
         }
     }
 
@@ -85,9 +118,10 @@ public class TerminalRunner {
 
     private void printEnd() {
         print("Koniec pytan");
-        print("Liczba poprawnych odpowiedzi: " + numberOfCorrectAnswers + "/" + totalNumberOfQuestions);
-        double result = (double) numberOfCorrectAnswers / (double) totalNumberOfQuestions;
+        print("Liczba poprawnych odpowiedzi: " + numberOfCorrectAnswers + "/" + numberOfQuestionsAnswered);
+        double result = 100.0d * (double) numberOfCorrectAnswers / (double) numberOfQuestionsAnswered;
         print("Procentowy wynik: " + result + "%");
+
     }
 
     private Entry getNextQuestion(ListIterator<Entry> iterator) {
@@ -157,7 +191,7 @@ public class TerminalRunner {
         y++;
     }
 
-    private Key getKey(Terminal terminal) {
+    private Key getKey() {
         Key key = terminal.readInput();
         while (key == null) {
             try {
