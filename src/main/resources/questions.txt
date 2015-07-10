@@ -1,401 +1,330 @@
-1. Bez uprawnień można prowadzić jachty żaglowe:
-a) o długości kadłuba maksymalnie do 5 m
-B) o długości kadłuba maksymalnie do 7,5 m
-c) nie można prowadzić żadnego jachtu
-d) o długości kadłuba maksymalnie do 6,5 m
-2. Jakie minimalne uprawnienia są wymagane do prowadzenia jachtu na wodach śródlądowych o długości kadłuba 8,5 m?
-a) nie są wymagane żadne
-B) patent żeglarza jachtowego
-c) patent sternika jachtowego
-d) karta pływacka
-3. Żeglarz jachtowy w wieku 15 lat może prowadzić jachty żaglowe:
-a) po wodach śródlądowych bez ograniczeń co do powierzchni ożaglowania
-b) niezatapialne po wodach morskich, a w regatach i na treningu pod nadzorem oraz po wodach śródlądowych bez ograniczeń
-C) po wodach śródlądowych pod nadzorem oraz jachty o długości kadłuba do 8,5 m po wodach morskich, w strefie 2 mil morskich od brzegu pod nadzorem
-d) żadna z powyższych odpowiedzi nie jest prawidłowa
-4. Czy żeglarz jachtowy może prowadzić jacht w porze nocnej?
-a) tylko jacht żaglowy wyposażony w silnik pomocniczy
-b) jacht posiadające stosowne światła nawigacyjne
-C) jacht posiadający stosowne światła nawigacyjne tylko na wodach, na których żegluga w nocy jest dozwolona
-d) nie może
-5. Czy pełnoletni żeglarz jachtowy może zabrać na rejs osobę nie posiadającą stopnia żeglarskiego?
-a) nie
-b) tak, ale tylko osobę pełnoletnią
-C) tak, niezależnie od wieku
-d) tak, ale tylko umiejąca pływać
-6. "Statek" w pojęciu przepisów żeglugowych na śródlądowych drogach wodnych to:
-a) statek uprawiający tylko żeglugę śródlądową
-b) każdy statek i prom z wyjątkiem urządzeń pływających nie posiadającego własnego napędu
-C) statek żeglugi śródlądowej, w tym mały statek lub prom, a także urządzenie pływające i statek morski
-d) statek wprowadzany w ruch tylko przez mechaniczne urządzenie napędowe
-7. "Statek żaglowy" w pojęciu przepisów żeglugowych na śródlądowych drogach wodnych to:
-a) każdy statek uprawiający żeglugę za pomocą żagli lub silnika pomocniczego
-b) każdy statek uprawiający żeglugę za pomocą żagli i równocześnie silnika pomocniczego
-C) każdy statek uprawiający żeglugę wyłącznie za pomocą żagli
-d) każdy statek zarejestrowany jako statek żaglowy
-8. "Statek o napędzie mechanicznym" w pojęciu przepisów żeglugowych na śródlądowych drogach wodnych to:
-a) każdy statek uprawiający żeglugę śródlądową
-b) każdy statek wyposażony w silnik i płynący na żaglach
-C) każdy statek wprowadzany w ruch przez maszynę
-d) każdy statek wprowadzany w ruch za pomocą wioseł
-9. Co oznacza sygnał: jeden długi dźwięk?
-A) "Uwaga"
-b) "Wzywam pomocy"
-c) "Niebezpieczeństwo zderzenia"
-d) "Człowiek za burtą"
-10. Co oznacza sygnał dźwiękowy składający się z
-jednego krótkiego, jednego długiego i dwóch krótkich dźwięków?
-a) "Wzywam pomocy"
-b) "Nie mogę manewrować"
-C) "Zatrzymajcie natychmiast swój statek"
-d) "Niebezpieczeństwo Zderzenia"
-11. Co oznacza sygnał dźwiękowy składający się z serii podwójnych krótkich dźwięków?
-a) "Nie mogę manewrować"
-B) "Człowiek za burtą"
-c) "Wzywam pomocy"
-d) "Moje maszyny pracują wstecz"
-12. Co oznaczają powtarzane długie dźwięki?
-a) "Człowiek za burtą"
-B) "Wzywam pomocy"
-c) "Niebezpieczeństwo zderzenia"
-d) "Nie mogę manewrować"
-13. Co oznacza powtarzana seria uderzeń w dzwon?
-A) "Wzywam pomocy"
-b) "Stoję na mieliźnie"
-c) "Stoję na kotwicy"
-d) "Niebezpieczeństwo zderzenia"
-14. Co oznacza jeden długi dźwięk, nadawany z przerwami nie dłuższymi niż jedna minuta, podczas ograniczonej widzialności?
-a) "Stoję na kotwicy"
-B) "Pojedynczy statek w ruchu"
-c) "Zestaw w ruchu"
-d) "Stoję na mieliźnie"
-15. Co oznacza zataczanie kręgów ręcznikiem?
-A) sygnał wzywania pomocy
-b) sygnalizowanie sąsiednim jachtom, że zbliżają się do niebezpieczeństwa
-c) zwyczajowy gest pozdrowienia innych jachtów
-d) sygnalizowanie innym jachtom utratę zdolności manewrowej
-16. Co oznacza kula wisząca nad flagą?
-a) mam uszkodzony silnik
-b) mam uszkodzony ster i nie mogę manewrować
-C) sygnał wzywania pomocy
-d) mam nurka pod wodą
-17. Co oznacza zataczanie kręgów latarką?
-a) zwyczajowy gest pozdrowienia innych jachtów w nocy
-B) sygnał wzywania pomocy
-c) mam ciężko rannego na pokładzie
-d) nie mogę manewrować
-18. Co oznaczają rakiety wyrzucające czerwone gwiazdy?
-a) sygnał zwrócenia uwagi innym jachtom
-B) sygnał wzywania pomocy
-c) uroczyste rozpoczęcie regat
-d) zatrzymajcie natychmiast wasz statek
-19. Co oznacza następujący sygnał świetlny: trzy krótkie, trzy długie, trzy krótkie błyski?
-A) sygnał wzywania pomocy
-b) ostrzeżenie innych jachtów że zbliżają się mielizny
-c) ostrzeżenie innych jachtów że istnieje niebezpieczeństwo zderzenia
-d) sygnał informujący o rozpoczęciu regat w 3 klasach równocześnie
-20. Co oznacza płomień na statku, wg przepisów żeglugowych?
-a) pożar na pokładzie
-B) sygnał wzywania pomocy
-c) ćwiczenia "alarm pożarowy"
-d) zastąpienie świateł nawigacyjnych w przypadku ich awarii
-21. Co oznacza rakieta spadochronowa paląca się czerwonym płomieniem?
-a) koniec regat
-b) początek regat
-C) sygnał wzywania pomocy
-d) sygnał zwrócenia uwagi
-22. Kiedy światła nawigacyjne statku powinny być zapalone?
-a) od świtu do zmierzchu oraz w warunkach ograniczonej widzialności
-b) od godz. 2000 do godz. 0600 dnia następnego
-C) od zachodu do wschodu słońca oraz w warunkach ograniczonej widzialności
-d) od godz. 1900 do godz. 0700 dnia następnego
-23. Podaj kolor i kąt świecenia światła masztowego?
-A) kolor biały, kąt 225°
-b) kolor biały, kąt 135°
-c) kolor żółty, kąt 135°
-d) kolor żółty, kąt 225°
-24. Podaj kolor i kąt świecenia światła rufowego?
-a) kolor biały, kąt 225°
-B) kolor biały, kąt 135°
-c) kolor żółty, kąt 225°
-d) kolor żółty, kąt 135°
-25. Podaj kolor i kąt świecenia światła burtowego lewego?
-a) kolor czerwony; kąt 135°
-b) kolor zielony; kąt 135°
-C) kolor czerwony; kąt 112,5°
-d) kolor zielony; kąt 112,5°
-26. Podaj kolor i kąt świecenia światła burtowego prawego?
-a) kolor czerwony; kąt 135°
-b) kolor zielony; kąt 135°
-c) kolor czerwony; kąt 112,5°
-D) kolor zielony; kąt 112,5°
-27. Czym różni się oznakowanie nocne małego statku o napędzie mechanicznym od oznakowania jachtu żaglowego?
-a) położeniem światła masztowego
-b) położeniem świateł burtowych
-D) brakiem światła masztowego
-d) występowaniem światła masztowego
-28. Określ jakie światła w nocy może pokazywać mały statek o napędzie mechanicznym o długości mniejszej niż 7m i prędkości do 10 km/h:
-a) światło masztowe
-b) dwa białe światła widoczne ze wszystkich stron
-D) światła burtowe i rufowe
-d) białe światło widoczne ze wszystkich stron
-29. Określ jakie światła w nocy może pokazywać mały statek żaglowy:
-a) światło masztowe, światła burtowe świecące z jednej latarni i światło rufowe
-b) światła burtowe świecące z jednej latarni i światło masztowe
-C) światła burtowe i światło rufowe świecące z tej samej latarni na szczycie masztu
-d) światła burtowe i białe światło widoczne ze wszystkich stron
-30. Określ jakie światła w nocy pokazuje mały statek żaglowy korzystający równocześnie z żagli i silnika:
-A) światło masztowe, światła burtowe i światło rufowe
-b) światła burtowe, światło rufowe, oraz światła czerwone nad zielonym umieszczone na topie masztu
-c) dodatkowe białe światło widoczne ze wszystkich stron
-d) światła burtowe i światło rufowe świecące z tej samej latarni umieszczonej na szczycie masztu
-31. Jaki znak oznacza jacht płynący pod żaglami i na silniku w porze dziennej?
-a) czarna kula
-B) czarny stożek skierowany wierzchołkiem w dół
-c) czarny romb
-d) żółty podwójny stożek
-32. Co oznacza zielona kula wywieszona na maszcie statku?
-a) statek przeznaczony do przewozu więcej niż 12 pasażerów
-B) prom
-c) statek straży granicznej
-d) statek z pierwszeństwem przejścia
-33. Co oznacza czarna kula wywieszona na maszcie statku?
-a) statek żaglowy korzystający równocześnie z żagli i silnika
-b) statek o długości mniejszej niż 20m, który posiada zezwolenie na przewóz więcej niż 12 pasażerów
-c) prom na uwięzi
-D) statek na kotwicy
-34. Jak jest oznaczony w nocy jacht stojący na kotwicy?
-A) białe światło widoczne ze wszystkich stron
-b) żółte światło widoczne ze wszystkich stron
-c) czerwone światło widoczne ze wszystkich stron
-d) zielone światło widoczne ze wszystkich stron
-35. Co oznacza, widoczna ze wszystkich stron flaga czerwono-biała podniesiona na statku?
-a) zakaz przejścia - szlak żeglowny jest zamknięty
-b) czasowy zakaz przejścia
-C) zakaz wytwarzania fali
-d) wezwanie do zatrzymania statku
-36. Kiedy jacht żaglowy uważa się za statek o napędzie mechanicznym?
-a) gdy płynie korzystając z wioseł
-B) gdy płynie korzystając równocześnie z żagli i silnika
-c) gdy posiada silniki na stałe wbudowany
-d) gdy posiada przyczepny silnik pomocniczy
-37. Mały statek to statek o maksymalnej długości mniejszej niż:
-a) 15 m
-B) 20 m
-c) 10 m
-d) 25 m
-38. Kto jest odpowiedzialny za bezpieczeństwo statku i załogi?
-A) kierownik statku
-b) osoba z najwyższym stopniem żeglarskim
-c) osoba sterująca jachtem
-d) osoba pełnoletnia znajdująca się na pokładzie
-39. Kto jest odpowiedzialny za przestrzeganie przepisów żeglugowych?
-A) kierownik statku
-b) załoga
-c) osoba sterująca jachtem
-d) właściciel jachtu (armator)
-40. Kogo należy powiadomić w przypadku zatonięcia jednostki na szlaku żeglownym?
-a) Urząd Gminy
-B) Urząd Żeglugi Śródlądowej i Policję
-c) Okręgowy Związek Żeglarski
-d) Wodne Ochotnicze Pogotowie Ratunkowe
-41. Kogo należy powiadomić o wypadku utonięcia na szlaku żeglownym?
-a) Okręgowy Związek Żeglarski
-B) Urząd Żeglugi Śródlądowej i Policję
-c) Urząd Gminy
-d) Armatora i ubezpieczyciela
-42. Kogo należy zawiadomić w razie nadzwyczajnego zagrożenia środowiska w wyniku wypadku żeglugowego?
-A) Okręgowy Związek Żeglarski
-b) Urząd Żeglugi Śródlądowej i Policję
-c) Urząd Żeglugi Śródlądowej i Państwową Straż Pożarną
-d) Urząd Gminy
-43. Kogo należy powiadomić o uszkodzeniu znaku żeglugowego?
-A) Urząd Żeglugi Śródlądowej lub Administrację drogi wodnej
-b) Okręgowy Związek Żeglarski
-c) Urząd Gminy na terenie której znajdują się wody z uszkodzonym znakiem
-d) Policję
-44. Czy ubezpieczenie jachtu jest obowiązkowe?
-a) tak
-B) nie
-c) tak, gdy jacht przeznaczony jest do przewozu więcej niż 5 osób
-d) tak, gdy jacht ma długość kadłuba mniejszą niż 12 m
-45. Obowiązek rejestracji obejmuje jachty żaglowe:
-a) o długości kadłuba powyżej 10 m
-b) o długości kadłuba powyżej 5 m
-C) o długości kadłuba powyżej 12 m
-d) o powierzchni pokładu (długość x szerokość) większej niż 20 m2
-46. Jaki dokument jachtu wystawia OZŻ?
-A) dowód rejestracyjny jachtu
-b) nie wystawia żadnych dokumentów jachtu
-c) świadectwo zdolności żeglugowej
-d) kartę bezpieczeństwa
-47. Etykieta jachtowa to:
-a) zbiór przepisów regulujących zachowanie się żeglarzy
-B) ustalony i przyjęty sposób zachowania się żeglarzy
-c) zasady ustalone przez kierownika statku obowiązujące na jachcie
-d) przepisy wydane przez PZŻ dotyczące wyglądu jachtu
-48. Gdzie jest podnoszona bandera na jachcie typu slup bermudzki:
-a) pod prawym salingiem
-b) na topie masztu
-C) na flagsztoku na rufie jachtu
-d) na achtersztagu
-49. Gdzie jest podnoszona bandera na jachcie typu slup gaflowy płynącym pod żaglami:
-a) pod prawym salingiem
-b) na topie masztu
-c) na flagsztoku na rufie jachtu
-D) pod pikiem gafla
-50. Widząc statek pokazujący z jednej strony flagę czerwono-białą i z drugiej strony flagę czerwoną:
-a) przepływamy od strony flagi czerwonej
-b) oczekujemy ze strony statku pokazującego te flagi na sygnał pozwolenia na przepłynięcie
-C) przepływamy od strony flagi czerwono-białej unikając wytwarzania fali
-d) obowiązkowo dobijamy do statku od strony flagi czerwono-białej w celu uzyskania informacji o zagrożeniach na szlaku wodnym
-51. Statek, który pokazuje z jednej strony czerwoną kulę i z drugiej dwa zielone podwójne stożki to:
-A) statek, lub urządzenie zajęte pracą na wodzie - przepływać od strony zielonych stożków
-b) prom przemieszczający się swobodnie - wytwarza wiry od strony zielonych stożków
-c) statek pozostawiający wolne miejsce na przejście od strony czerwonej kuli
-d) statek spełniający miejsce postoju - cumować od strony zielonych stożków
-52. Jeśli na wodzie w pobliżu statku pokazującego czarną kulę znajduje się żółta pławka to należy:
-A) nie przepływać pomiędzy pławką, a statkiem
-b) zacumować się do pławki na krótki postój, jeśli z naprzeciwka płynie statek
-c) przepłynąć między pławką, a najbliższym niej statkiem
-d) zawrócić, ponieważ ta pławka oznacza koniec szlaku.
-53. Statek pokazujący z jednej strony flagę czerwono-białą i z drugiej strony flagę czerwoną to statek:
-a) zajęty pilotażem
-b) zajęty wybieraniem sieci. Sieci są od strony gdzie jest flaga czerwono-biała
-C) zajęty pracą lub statek na mieliźnie. Nie przepływamy od strony flagi czerwonej
-d) prom przygotowujący się do odejścia od brzegu
-54. Utratę manewrowości małego statku można zasygnalizować:
-a) wywieszeniem czarnego stożka
-b) wciągnięciem na maszt czerwonego proporca
-c) zataczaniem kręgów dowolnym widocznym przedmiotem
-D) czerwoną flagą poruszającą się wahadłowo
-55. Oznakowanie złożone z dwóch czarnych kul, jedna nad drugą, widocznych ze wszystkich stron oznacza, że statek:
-a) jest zajęty połowem
-b) przewozi materiały niebezpieczne
-C) utracił manewrowość
-d) wzywa pomocy
-56. Mały statek wyłaniający się z za zakrętu na kanale pokazujący światło białe i pod nim światło czerwone, oba widoczne ze wszystkich stron to:
-a) statek zajęty połowem - ciągnie sieć
-b) statek Urzędu Żeglugi - wzywa nas do zatrzymania się
-C) statek zajęty pilotażem - z za zakrętu może wypłynąć duża barka
-d) statek Służby Ochrony Przyrody - zbliżamy się do granicy Parku Narodowego
-57. Statek, który płynie w górę szlaku i pokazuje ze swojej prawej burty tablicę jasnoniebieską z białym migającym światłem:
-a) pozostawia wolną drogę do mijania ze swojej lewej burty
-b) sygnalizuje, że od strony tablicy ma wystawione narzędzie połowu
-C) pozostawia wolną drogę do mijania ze swojej prawej burty
-d) sygnalizuje, że prawą burtą będzie podchodził do brzegu
-58. Jeden, dwa, lub trzy niebieskie stożki podniesione na statku na wodach śródlądowych oznaczają:
-A) statek, który jest załadowany materiałami niebezpiecznymi
-b) statek, który wzywa pomocy - ilość stożków oznacza rodzaj zagrożenia dla statku
-c) statek, który płynie w górę szlaku i zostawia miejsce z lewej burty
-d) statek Urzędu Żeglugi Śródlądowej
-59. Jak można nadać sygnał wzywania pomocy:
-A) zataczając kręgi światłem dowolnego koloru
-b) za pomocą latarki świecąc cyklicznie co 1 minutę trzy jednosekundowe błyski
-c) oświetlając w nocy ciągłym świeceniem latarki żagle
-d) widząc śmigłowiec nad głowami, podnosimy lewą rękę do góry i opuszczamy pod kątem prawą.
-60. Sygnał składający się z serii bardzo krótkich dźwięków oznacza:
-a) wzywam pomocy
-B) niebezpieczeństwo zderzenia
-c) ciągnę sieć
-d) zatrzymaj natychmiast swój statek
-61. Określ jakie światła w nocy powinien pokazywać mały statek żaglowy w drodze:
-a) światło masztowe, światła burtowe świecące z jednej latarni i światło rufowe
-b) światła burtowe świecące z jednej latarni i światło masztowe
-C) światła burtowe świecące z jednej latarni i światło rufowe
-d) światła burtowe i białe światło widoczne ze wszystkich stron
-62. Jaki minimalny zestaw świateł może pokazywać w nocy mały statek żaglowy o długości mniejszej niż 7 m, w drodze:
-a) światło masztowe, światła burtowe świecące z jednej latarni i światło rufowe
-b) światła burtowe i światło rufowe świecące z tej samej latarni na szczycie masztu
-c) światła burtowe świecące z jednej latarni i światło rufowe
-D) białe światło widoczne ze wszystkich stron i drugie białe światło oświetlające żagle, przy zbliżaniu się do innych statków
-63. Jacht żaglowy poruszający się równocześnie za pomocą żagli i silnika uznawany jest za:
-a) statek o ograniczonej zdolności manewrowej
-b) statek żaglowy
-C) statek o napędzie mechanicznym
-d) statek żaglowo - motorowy
-64. Co oznaczają dwa podwójne zielone stożki (w nocy dwa zielone światła) umieszczone pionowo jeden nad drugim, wywieszone na burcie stojącego statku:
-a) strona statku osiadłego na mieliźnie, z której szlak żeglowny jest wolny dla przejścia statków
-b) strona urządzenia pływającego lub statku wykonującego prace na drodze wodnej, z której szlak żeglowny jest zamknięty dla przejścia statków
-C) strona urządzenia pływającego lub statku wykonującego prace na drodze wodnej, z której szlak żeglowny jest wolny dla przejścia statków
-d) strona statku zatopionego z której szlak żeglowny jest wolny dla przejścia statków
-65. Co oznacza powtarzane, powolne podnoszenie i opuszczanie obu ramion wyprostowanych w bok:
-a) nie mogę manewrować
-B) sygnał wzywania pomocy
-c) zatrzymajcie natychmiast swój statek
-d) niebezpieczeństwo zderzenia
-66. Jeden krótki dźwięk nadany przez statek oznacza:
-a) zmieniam mój kurs w lewo
-B) zmieniam mój kurs w prawo
-c) uwaga, zbliżam się do zakrętu
-d) moje maszyny pracują wstecz
-67. Dwa krótkie dźwięki nadane przez statek oznaczają:
-a) człowiek za burtą
-B) zmieniam mój kurs w lewo
-c) zmieniam mój kurs w prawo
-d) moje maszyny pracują wstecz
-68. Trzy krótkie dźwięki nadane przez statek oznaczają:
-a) niebezpieczeństwo zderzenia
-B) moje maszyny pracują wstecz
-c) nie mogę manewrować
-d) sygnał wzywania pomocy
-69. Cztery krótkie dźwięki nadane przez statek oznaczają:
-a) niebezpieczeństwo zderzenia
-b) moje maszyny pracują wstecz
-C) nie mogę manewrować
-d) sygnał wzywania pomocy
-70. Seria bardzo krótkich dźwięków nadawanych przez statek oznacza:
-A) niebezpieczeństwo zderzenia
-b) zatrzymajcie natychmiast swój statek
-c) nie mogę manewrować
-d) sygnał wzywania pomocy
-71. Statek pokazujący flagę biało niebieską z wycięciem w części niebieskiej to:
-a) statek, do którego można zacumować
-b) statek zajęty połowem
-C) statek zajęty podwodnymi pracami – mam nurka
-d) statek Urzędu Żeglugi wzywający nas do zatrzymania się
-72. Statek pokazujący flagę czerwoną z białym pasem po przekątnej to:
-a) statek zajęty połowem
-B) statek w pobliżu którego znajduje się płetwonurek
-c) statek wzywający nas do zatrzymania się
-d) statek wzywający pomocy
-73. Statek pokazujący w części dziobowej czerwony proporzec to:
-a) statek przewożący materiały niebezpieczne
-b) statek wzywający pomocy
-c) statek zajęty holowaniem
-D) statek z pierwszeństwem przejścia
-76. Statek pokazujący z jednej strony tablicę czerwoną z białym poziomym pasem i z drugiej strony tablicę zieloną z białym pasem pionowym to:
-a) statek zajęty połowem - narzędzie połowu wystawione od strony czerwonej tablicy
-b) statek Urzędu Żeglugi - płynąc w dół szlaku przepływać od strony zielonej tablicy - płynąc w górę przepływać od strony tablicy czerwonej
-C) statek zajęty pracami - przepływać od strony tablicy zielonej
-d) statek Urzędu Żeglugi - płynąc w dół szlaku przepływać od strony czerwonej tablicy- płynąc w górę przepływać od strony tablicy zielonej
-77. Statek pokazujący żółty podwójny stożek to:
-A) statek o długości mniejszej niż 20 metrów uprawniony do przewozu więcej niż 12 pasażerów - ustępujemy mu
-b) statek zajęty holowaniem
-c) statek na kotwicy
-d) statek który utracił zdolność manewrową.
-78. Statek pokazujący niebieskie migające światło to:
-a) Statek zajęty połowem za pomocą prądu
-b) Statek zajęty holowaniem
-c) Statek o ograniczonej zdolności manewrowej
-D) Statek organów kontroli
-79. Statek oznaczony jak obok to:
-A) statek zajęty holowaniem
-b) statek zajęty połowem
-c) statek na kotwicy
-d) statek organów kontroli
-88. Jeżeli dwa jachty żaglowe płyną różnymi halsami i istnieje ryzyko zderzenia to z drogi powinien ustąpić:
-a) jacht, który ma drugi jacht ze swej prawej burty
-b) jacht, który ma drugi jacht ze swej lewej burty
-C) jacht płynący lewym halsem
-d) jacht płynący prawym halsem
-89. Jeżeli jacht żaglowy i jacht motorowy płyną kursami przecinającymi się i istnieje ryzyko zderzenia, to z drogi powinien ustąpić:
-a) jacht żaglowy, jeżeli płynie lewym halsem
-b) jacht, który ma drugi jacht ze swej prawej burty
-c) jacht, który ma drugi jacht ze swej lewej burty
-D) jacht motorowy
-90. Jeżeli dwa jachty żaglowe płyną tym samym halsem i istnieje ryzyko zderzenia, to z drogi powinien ustąpić:
-A) jacht nawietrzny
-b) jacht zawietrzny
-c) jacht płynący z większa prędkością
-d) jacht, który ma drugi jacht ze swej prawej burty
+1. Izobara to:
+a) linia na mapie łącząca punkty o jednakowej temperaturze
+B) linia na mapie łącząca punkty o jednakowym ciśnieniu
+c) linia na mapie łącząca punkty o jednakowej głębokości
+d) żadna odpowiedź nie jest prawidłowa
+2. Linia na mapie łącząca punkty o jednakowym ciśnieniu to:
+a) izobata
+B) izobara
+c) izoterma
+d) żadna odpowiedź nie jest prawidłowa
+3. Aneroid służy do pomiaru:
+A) ciśnienia
+b) prędkości wiatru
+c) wilgotności
+d) temperatury
+4. Anemometr służy do pomiaru:
+a) temperatury wody
+b) wilgotności
+C) prędkości wiatru
+d) ciśnienia
+5. Higrometr służy do pomiaru:
+a) temperatury
+B) wilgotności
+c) ciśnienia
+d) prędkości wiatru
+6. Ciśnienie 980 hPa panuje:
+A) w niżu
+b) w wyżu
+c) ciśnienie normalne
+d) żadna z odpowiedzi nie jest prawidłowa
+7. Ciśnienie 1013 hPa jest ciśnieniem panującym:
+a) w wyżu
+b) w niżu
+C) ciśnienie normalne
+d) żadna odpowiedź nie jest prawidłowa
+8. Wiatromierz Wilda wskazuje:
+a) siłę wiatru
+B) siłę i kierunek wiatru
+c) kierunek wiatru
+d) średnią siłę wiatru z ostatniej godziny
+9. Największy wpływ na pogodę mają zjawiska i procesy fizyczne zachodzące w:
+a) stratosferze
+B) troposferze
+c) jonosferze
+d) całej atmosferze ziemskiej
+10. Skala Beauforta określa siłę wiatru w zakresie:
+a) od 0°B do 9 °B
+B) od 0°B do 12°B
+c) od 1°B do 12°B
+d) od 1°B do 9°B
+1. Front ciepły występuje w:
+A) niżu
+b) wyżu
+c) niżu i wyżu
+d) nie jest związany z wyżem lub niżem
+2. Front zimny występuje w:
+A) niżu
+b) wyżu
+c) niżu i wyżu
+d) nie jest związany z wyżem lub niżem
+3. Chmura Cirrus ze względu na wysokość występowania zaliczana jest do chmur:
+a) niskich
+b) średnich
+C) wysokich
+d) obejmuje wszystkie wysokości
+4. Chmura Altostratus ze względu na wysokość występowania zaliczana jest do chmur:
+a) niskich
+B) średnich
+c) wysokich
+d) obejmuje wszystkie wysokości
+5. Chmura Cumulonimbus ze względu na wysokość występowania zaliczana jest do chmur:
+a) niskich
+b) średnich
+c) wysokich
+D) obejmuje wszystkie wysokości
+6. Chmura Cirrus ze względu na wysokość występowania zaliczana jest do chmur:
+a) niskich
+b) średnich
+C) wysokich
+d) obejmuje wszystkie wysokości
+7. Chmura Cirrostratus ze względu na budowę zaliczana jest do chmur:
+A) pierzasto-warstwowych
+b) warstwowych
+c) kłębiastych
+d) deszczowo-warstwowych
+8. Chmura Nimbostratus ze względu na budowę zaliczana jest do chmur:
+a) pierzastych
+b) warstwowych
+C) deszczowo- warstwowych
+d) kłębiastych
+9. Chmura Cumulonimbus ze względu na budowę zaliczana jest do chmur:
+a) kłębiastych
+b) deszczowo- warstwowych
+C) kłębiasto-burzowych
+d) pierzasto-kłębiastych
+10. W obszarze wyżu na półkuli północnej wiatry wieją:
+a) od środka wyżu zgodnie z kierunkiem ruchu wskazówek zegara
+B) do środka wyżu zgodnie z kierunkiem ruchu wskazówek zegara
+c) od środka wyżu w kierunku przeciwnym do ruchu wskazówek zegara
+d) do środka wyżu w kierunku przeciwnym do ruchu wskazówek zegara
+11. W obszarze niżu na półkuli północnej wiatry wieją:
+a) do środka niżu zgodnie z kierunkiem ruchu wskazówek zegara
+b) od środka niżu zgodnie z kierunkiem ruchu wskazówek zegara
+c) od środka niżu w kierunku przeciwnym do ruchu wskazówek zegara
+D) do środka niżu w kierunku przeciwnym do ruchu wskazówek zegara
+12. Zakłócenie wiatru typu ”odbicie” powoduje: 12b. Co powoduje uderzenie wiatru o wysoki brzeg:
+A) zmianę kierunku wiatru na przeciwny do wiatru rzeczywistego - wiatr odpychający
+b) nie powoduje zmiany kierunku wiatru
+c) zmianę kierunku wiatru na równoległy do brzegu
+d) zwiększa tylko siłę wiatru
+13. Zakłócenie wiatru typu „zawirowanie” powoduje: 13b. Jak zachowuje się wiatr wiejący znad wysokiego brzegu
+A) zmianę kierunku wiatru na przeciwny do wiatru rzeczywistego - wiatr dopychający do brzegu
+b) zmianę kierunku wiatru na równoległy do brzegu
+c) zwiększa tylko siłę wiatru
+d) nie powoduje zmiany kierunku wiatru
+14. Zakłócenie typu „dysza” powoduje: 14b. Czego żeglarz może się spodziewać w przewężeniu akwenu
+a) zmniejszenie siły wiatru
+B) zwiększenie siły wiatru
+c) zmniejszenie siły i zmianę kierunek wiatru
+d) zwiększenie siły i zmianę kierunek wiatru
+15. Bryza dzienna to wiatr wiejący:
+A) od wody w stronę lądu
+b) od lądu w stronę wody
+c) równolegle do linii brzegu
+d) z zachodu na wschód
+16. Bryza nocna to wiatr wiejący:
+a) od wody w stronę lądu
+B) od lądu w stronę wody
+c) równolegle do linii brzegu
+d) ze wschodu na zachód
+1. Drobne zmarszczki na wodzie o wyglądzie łuski wywołuje wiatr o sile:
+a) 0 B
+B) 1 B
+c) 2 B
+d) 3 B
+2. Słaby wiatr powodujący drobne fale - prędkość wiatru 1,6 - 3,3 m/s - odpowiada sile wiatru:
+a) 4 B
+b) 3 B
+C) 2 B
+d) 1 B
+3. Łagodny wiatr poruszający liście, wywołujący małe fale - prędkość wiatru 3,4 - 5,4 m/s - odpowiada sile wiatru:
+a) 4 B
+B) 3 B
+c) 2 B
+d) 1 B
+4. Umiarkowany wiatr poruszający gałązkami, powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s - odpowiada sile wiatru:
+a) 2 B
+b) 3 B
+C) 4 B
+d) 5 B
+5. Dość silny (świeży) wiatr poruszający większymi gałązkami powodujący gęste grzebienie - prędkość wiatru 8,0 - 10,7 m/s - odpowiada sile wiatru:
+a) 3 B
+b) 4 B
+C) 5 B
+d) 6 B
+6. Silny wiatr poruszający grubymi gałęziami, powodujący grzywacze - prędkość wiatru 10,8 - 13,8 m/s - odpowiada sile wiatru:
+a) 7 B
+B) 6 B
+c) 5 B
+d) 4 B
+7. Bardzo silny wiatr poruszający cieńszymi pniami drzew powodujący pasma piany - prędkość wiatru 13,9 - 17,1 m/s - odpowiada sile wiatru:
+A) 7 B
+b) 6 B
+c) 5 B
+d) 8 B
+8. Wiatr o sile 6 B to:
+a) Bardzo silny wiatr poruszający cieńszymi pniami drzew powodujący pasma piany – prędkość wiatru 13,9 - 17,1 m/s
+B) Silny wiatr poruszający grubymi gałęziami powodujący grzywacze - prędkość wiatru 10,8 - 13,8 m/s
+c) Dość silny (świeży) wiatr poruszający większymi gałązkami powodujący gęste grzebienie - prędkość wiatru 8,0 - 10,7 m/s
+d) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+9. Wiatr o sile 5 B to:
+a) Bardzo silny wiatr poruszający cieńszymi pniami drzew powodujący pasma piany - prędkość wiatru 13,9 - 17,1 m/s
+b) Silny wiatr poruszający grubymi gałęziami powodujący grzywacze - prędkość wiatru 10,8 - 13,8 m/s
+C) Dość silny (świeży) wiatr poruszający większymi gałązkami powodujący gęste grzebienie - prędkość wiatru 8,0 - 10,7 m/s
+d) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+10. Wiatr o sile 4 B to:
+a) Bardzo silny wiatr poruszający cieńszymi pniami drzew powodujący pasma piany - prędkość wiatru 13,9 - 17,1 m/s
+b) Silny wiatr poruszający grubymi gałęziami powodujący grzywacze - prędkość wiatru 10,8 - 13,8 m/s
+c) Dość silny (świeży) wiatr poruszający większymi gałązkami powodujący gęste grzebienie - prędkość wiatru 8,0 - 10,7 m/s
+D) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+11. Wiatr o sile 3 B to:
+a) Drobne zmarszczki na wodzie, prędkość wiatru 0,3 - 1,5 m/s
+b) Słaby wiatr powodujący drobne fale - prędkość wiatru 1,6 - 3,3 m/s
+C) Łagodny wiatr poruszający liście, wywołujący drobne fale - prędkość wiatru 3,4 - 5,4 m/s
+d) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+12. Wiatr o sile 2 B to:
+a) Drobne zmarszczki na wodzie, prędkość wiatru 0,3 - 1,5 m/s
+B) Słaby wiatr powodujący drobne fale – prędkość wiatru 1,6 - 3,3 m/s
+c) Łagodny wiatr poruszający liście, wywołujący drobne fale - prędkość wiatru 3,4 - 5,4 m/s
+d) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+13. Wiatr o sile 1 B to:
+A) Drobne zmarszczki na wodzie przy unoszącym się prawie pionowo dymie - prędkość wiatru 0,3 - 1,5 m/s
+b) Słaby wiatr odczuwany jako powiew powodujący drobne fale - prędkość wiatru 1,6 - 3,3 m/s
+c) Łagodny wiatr poruszający liście, wywołujący drobne fale - prędkość wiatru 3,4 - 5,4 m/s
+d) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+14. Sztorm to wiatr o sile od:
+a) 7 B
+B) 8 B
+c) 9 B
+d) 10 B
+1. Dobrą pogodę zwiastuje:
+A) czysty jasny widnokrąg podczas wschodu słońca
+b) systematyczny spadek ciśnienia
+c) mgła podnosząca się i tworząca obłoki
+d) nisko latające ptaki
+2. Dobrą pogodę zwiastują:
+a) wzrost siły wiatru pod wieczór i w nocy
+B) wyraźne bryzy
+c) dym ścielący się po wodzie przy bezdeszczowej pogodzie
+d) halo wokół słońca
+3. Dobrą pogodę zwiastuje:
+a) halo wokół słońca
+b) wzrost siły wiatru pod wieczór i w nocy
+c) nisko latające ptaki
+D) zanikanie pod wieczór chmur kłębiastych
+4. Dobrą pogodę zwiastuje:
+a) wzrost siły wiatru pod wieczór i w nocy
+b) systematyczny spadek ciśnienia
+C) czerwony zachód słońca
+d) nisko latające ptaki
+5. Dobrą pogodę zwiastuje:
+A) obfita rosa rano i wieczorem
+b) halo wokół słońca
+c) systematyczny spadek ciśnienia
+d) dym ścielący się po wodzie przy bezdeszczowej pogodzie
+6. Dobrą pogodę zwiastuje:
+A) wiatr tężejący w południe, a cichnący nad ranem i wieczorem
+b) wzrost siły wiatru pod wieczór i w nocy
+c) dym ścielący się po wodzie przy bezdeszczowej pogodzie
+d) systematyczny spadek ciśnienia
+7. Dobrą pogodę zwiastuje:
+a) halo wokół słońca
+b) systematyczny spadek ciśnienia
+C) utrzymywanie lub podnoszenie się ciśnienia
+d) nisko latające ptaki
+8. Dobrą pogodę zwiastuje:
+a) dym ścielący się po wodzie przy bezdeszczowej pogodzie
+b) wzrost siły wiatru pod wieczór i w nocy
+C) mgła opadająca nad ranem
+d) systematyczny spadek ciśnienia
+9. Pogorszenie pogody zwiastuje:
+a) mgła opadająca nad ranem
+b) utrzymywanie lub podnoszenie się ciśnienia
+C) systematyczny spadek ciśnienia
+d) wiatr tężejący w południe, a cichnący nad ranem i wieczorem
+10. Pogorszenie pogody zwiastuje:
+a) obfita rosa rano i wieczorem
+B) wzrost siły wiatru ze zmianą jego kierunku pod wieczór i w nocy
+c) czerwony zachód słońca
+d) czysty jasny widnokrąg podczas wschodu słońca
+11. Pogorszenie pogody zwiastuje:
+a) wyraźne bryzy
+b) czerwony zachód słońca
+c) zanikanie pod wieczór chmur kłębiastych
+D) dym ścielący się po wodzie przy bezdeszczowej pogodzie
+12. Pogorszenie pogody zwiastuje:
+A) nisko latające ptaki
+b) utrzymywanie lub podnoszenie się ciśnienia
+c) zanikanie pod wieczór chmur kłębiastych
+d) mgła opadająca nad ranem
+13. Pogorszenie pogody zwiastuje:
+a) czerwony zachód słońca
+B) mgła podnosząca się i tworząca obłoki
+c) mgła opadająca nad ranem
+d) zanikanie pod wieczór chmur kłębiastych
+14. Pogorszenie pogody zwiastuje:
+A) halo wokół słońca lub księżyca
+b) utrzymywanie lub podnoszenie się ciśnienia
+c) zanikanie pod wieczór chmur kłębiastych
+d) mgła opadająca nad ranem
+1. Określenie w komunikacie meteo „Ostrzeżenie przed silnym wiatrem” dotyczy wiatru o sile:
+a) 5°B
+B) 6°B
+c) 7°B
+d) 8°B
+2. Gdzie należy szukać komunikatów meteo pływając po polskich jeziorach
+a) nasłuchując Radio- Gdynia na UKF
+B) w radiu - najczęściej po wiadomościach, w Internecie, w telefonie komórkowym
+c) na odbiorniku NAVTEX w który powinien być wyposażony jacht
+d) w miesięczniku „Żagle”
+3. Kto jest odpowiedzialny na jachcie za bieżący odbiór komunikatów meteo:
+a) załogant posiadający radioodbiornik
+B) prowadzący jacht – kierownik statku
+c) bosman w marinie
+d) armator jachtu
+4. Z jakich elementów składa się klasyczny komunikat meteo dla żeglarzy:
+a) sytuacja baryczna; prognoza na 12 godzin
+b) sytuacja baryczna; prognoza na 12 godzin; prognoza na następne 12 godzin
+C) sytuacja baryczna i ostrzeżenie o silnym wietrze lub sztormie; prognoza na 12 godzin; prognoza na następne 12
+d) sytuacja baryczna; prognoza na 12 godzin; ostrzeżenia nawigacyjne
+1. Najczęstszym miejscem występowania cumulonimbusa są
+a) ośrodek wyżowy
+b) front ciepły
+C) front zimny
+d) front stacjonarny
+2. Najczęstszym miejscem występowania cumulonimbusa są
+A) front zokludowany
+b) front ciepły
+c) front stacjonarny
+d) ośrodek wyżowy
+3. Cumulonimbus może wystąpić poza frontami
+A) w masach powietrza wilgotnego i ciepłego najczęściej w godzinach popołudniowych
+b) w masach powietrza zimnego i suchego nad ranem
+c) w centrum wyżu
+d) występuje tylko we frontach
+4. Cumulonimbusowi towarzyszą
+a) spadek siły wiatru i rozpogodzenie
+b) ustabilizowanie kierunku i siły wiatru
+C) gwałtowny wzrost siły wiatru z zachmurzeniem
+d) wzrost temperatury wraz z stopniowym wzrostem siły wiatru
+5. Front zokludowany charakteryzuje się zazwyczaj
+a) ustabilizowaniem się kierunku wiatru wraz z postępującym rozpogodzeniem
+B) gwałtownym wzrostem siły wiatru wraz z zmianą jego kierunku
+c) powolnym spadkiem siły wiatru aż do jego zaniku
+d) brakiem opadów i ciepłym suchym wiatrem
+6. Front ciepły charakteryzuje się zazwyczaj
+A) powolnymi zmianami temperatury, stopniowo zwiększającym się zachmurzeniem, zwiększającymi się opadami typu mżawka i deszcz, mgłami
+b) gwałtownym wzrostem siły wiatru i przelotnymi gwałtownymi opadami
+c) pojedynczymi chmurami i szkwałami,z szybkimi zmianami temperatury
+d) suchym i porywistym wiatrem z południa
+7. Front zimny charakteryzuje się
+a) powolnymi zmianami temperatury, stopniowo zwiększającym się zachmurzeniem, zwiększającymi się opadami typu mżawka i deszcz, mgłami
+B) gwałtownym wzrostem siły wiatru i przelotnymi gwałtownymi opadami, wyładowaniami
+c) ciepłym, suchym i porwistym wiatrem z południa
+d) zimnym wiatrem z północy przy słonecznej pogodzie
+8. Pojawienie się chmury Cumulonimbus zapowiada:
+a) długotrwały deszcz
+b) piękną pogodę
+C) burze i porywiste wiatry
+d) bezwietrzną pogodę z mżawką
