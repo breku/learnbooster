@@ -181,8 +181,8 @@ d) lina podtrzymująca nok bomu przy ożaglowaniu trójkątnym (bermudzkim)
 16. Topenanta to:
 a) listwa na topie masztu odciągająca achtersztag
 b) lina podtrzymująca maszt, biegnąca od topu do burty pod kątem 60o
-C) lina podtrzymująca maszt, biegnąca od topu stengi do topu kolumny
-d) lina podtrzymujące bom przy ożaglowaniu trójkątnym (bermudzkim)
+c) lina podtrzymująca maszt, biegnąca od topu stengi do topu kolumny
+D) lina podtrzymujące bom przy ożaglowaniu trójkątnym (bermudzkim)
 17. Szpring to:
 a) amortyzator sprężynowy na cumie
 B) lina biegnąca od dziobu jachtu do tyłu, służąca do cumowania
@@ -204,10 +204,10 @@ B) lina do podnoszenia żagli, drzewc, lub osprzętu
 c) lina do wybierania żagli na kursie
 d) żadna odpowiedź nie jest prawidłowa
 21. Szot to:
-A) lina do cumowania biegnąca od dziobu jachtu do tyłu lub od rufy do przodu
+a) lina do cumowania biegnąca od dziobu jachtu do tyłu lub od rufy do przodu
 b) lina do cumowania biegnąca od dziobu jachtu do przodu lub od rufy do tył,
 c) linka do podnoszenia żagli lub drzewc
-d) żadna odpowiedź nie jest prawidłowa
+D) żadna odpowiedź nie jest prawidłowa
 22. Zadaniem obciągacza bomu jest:
 A) zapobieganie unoszeniu bomu
 b) zapobieganie niekontrolowanej rufie,
@@ -229,8 +229,8 @@ B) otworzyć odpowietrznik
 c) wyciągnąć pędnik z wody
 d) wypiąć linkę bezpieczeństwa
 2. Podczas pracy silnika należy:
-B) ściągnąć obudowę w celu poprawienia chłodzenia
-b) sprawdzać, czy przez silnik przepływa woda
+a) ściągnąć obudowę w celu poprawienia chłodzenia
+B) sprawdzać, czy przez silnik przepływa woda
 c) zwiększyć ssanie w celu poprawienia smarowania silnika
 d) żadna odpowiedź nie jest prawidłowa
 3. Do silnika dwusuwowego stosujemy:
