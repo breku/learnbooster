@@ -10,8 +10,7 @@ c) patent sternika jachtowego
 d) karta pływacka
 3. Żeglarz jachtowy w wieku 15 lat może prowadzić jachty żaglowe:
 a) po wodach śródlądowych bez ograniczeń co do powierzchni ożaglowania
-b) niezatapialne po wodach morskich, a w regatach i na treningu pod nadzorem
-oraz po wodach śródlądowych bez ograniczeń
+b) niezatapialne po wodach morskich, a w regatach i na treningu pod nadzorem oraz po wodach śródlądowych bez ograniczeń
 C) po wodach śródlądowych pod nadzorem oraz jachty o długości kadłuba do 8,5 m po wodach morskich, w strefie 2 mil morskich od brzegu pod nadzorem
 d) żadna z powyższych odpowiedzi nie jest prawidłowa
 4. Czy żeglarz jachtowy może prowadzić jacht w porze nocnej?
@@ -34,8 +33,7 @@ a) każdy statek uprawiający żeglugę za pomocą żagli lub silnika pomocnicze
 b) każdy statek uprawiający żeglugę za pomocą żagli i równocześnie silnika pomocniczego
 C) każdy statek uprawiający żeglugę wyłącznie za pomocą żagli
 d) każdy statek zarejestrowany jako statek żaglowy
-8. "Statek o napędzie mechanicznym" w pojęciu przepisów żeglugowych
-na śródlądowych drogach wodnych to:
+8. "Statek o napędzie mechanicznym" w pojęciu przepisów żeglugowych na śródlądowych drogach wodnych to:
 a) każdy statek uprawiający żeglugę śródlądową
 b) każdy statek wyposażony w silnik i płynący na żaglach
 C) każdy statek wprowadzany w ruch przez maszynę
@@ -45,8 +43,7 @@ A) "Uwaga"
 b) "Wzywam pomocy"
 c) "Niebezpieczeństwo zderzenia"
 d) "Człowiek za burtą"
-10. Co oznacza sygnał dźwiękowy składający się z
-jednego krótkiego, jednego długiego i dwóch krótkich dźwięków?
+10. Co oznacza sygnał dźwiękowy składający się z jednego krótkiego, jednego długiego i dwóch krótkich dźwięków?
 a) "Wzywam pomocy"
 b) "Nie mogę manewrować"
 C) "Zatrzymajcie natychmiast swój statek"
@@ -131,8 +128,7 @@ a) kolor czerwony; kąt 135°
 b) kolor zielony; kąt 135°
 c) kolor czerwony; kąt 112,5°
 D) kolor zielony; kąt 112,5°
-27. Czym różni się oznakowanie nocne małego statku o napędzie mechanicznym
-od oznakowania jachtu żaglowego?
+27. Czym różni się oznakowanie nocne małego statku o napędzie mechanicznym od oznakowania jachtu żaglowego?
 a) położeniem światła masztowego
 b) położeniem świateł burtowych
 D) brakiem światła masztowego
@@ -140,8 +136,8 @@ d) występowaniem światła masztowego
 28. Określ jakie światła w nocy może pokazywać mały statek o napędzie mechanicznym o długości mniejszej niż 7m i prędkości do 10 km/h:
 a) światło masztowe
 b) dwa białe światła widoczne ze wszystkich stron
-D) światła burtowe i rufowe
-d) białe światło widoczne ze wszystkich stron
+c) światła burtowe i rufowe
+D) białe światło widoczne ze wszystkich stron
 29. Określ jakie światła w nocy może pokazywać mały statek żaglowy:
 a) światło masztowe, światła burtowe świecące z jednej latarni i światło rufowe
 b) światła burtowe świecące z jednej latarni i światło masztowe
@@ -149,8 +145,7 @@ C) światła burtowe i światło rufowe świecące z tej samej latarni na szczyc
 d) światła burtowe i białe światło widoczne ze wszystkich stron
 30. Określ jakie światła w nocy pokazuje mały statek żaglowy korzystający równocześnie z żagli i silnika:
 A) światło masztowe, światła burtowe i światło rufowe
-b) światła burtowe, światło rufowe, oraz światła czerwone nad zielonym umieszczone
-na topie masztu
+b) światła burtowe, światło rufowe, oraz światła czerwone nad zielonym umieszczone na topie masztu
 c) dodatkowe białe światło widoczne ze wszystkich stron
 d) światła burtowe i światło rufowe świecące z tej samej latarni umieszczonej na szczycie masztu
 31. Jaki znak oznacza jacht płynący pod żaglami i na silniku w porze dziennej?
@@ -209,9 +204,9 @@ B) Urząd Żeglugi Śródlądowej i Policję
 c) Urząd Gminy
 d) Armatora i ubezpieczyciela
 42. Kogo należy zawiadomić w razie nadzwyczajnego zagrożenia środowiska w wyniku wypadku żeglugowego?
-A) Okręgowy Związek Żeglarski
+a) Okręgowy Związek Żeglarski
 b) Urząd Żeglugi Śródlądowej i Policję
-c) Urząd Żeglugi Śródlądowej i Państwową Straż Pożarną
+C) Urząd Żeglugi Śródlądowej i Państwową Straż Pożarną
 d) Urząd Gminy
 43. Kogo należy powiadomić o uszkodzeniu znaku żeglugowego?
 A) Urząd Żeglugi Śródlądowej lub Administrację drogi wodnej
@@ -250,11 +245,9 @@ c) na flagsztoku na rufie jachtu
 D) pod pikiem gafla
 50. Widząc statek pokazujący z jednej strony flagę czerwono-białą i z drugiej strony flagę czerwoną:
 a) przepływamy od strony flagi czerwonej
-b) oczekujemy ze strony statku pokazującego te flagi
-na sygnał pozwolenia na przepłynięcie
+b) oczekujemy ze strony statku pokazującego te flagi na sygnał pozwolenia na przepłynięcie
 C) przepływamy od strony flagi czerwono-białej unikając wytwarzania fali
-d) obowiązkowo dobijamy do statku od strony flagi czerwono-białej
-w celu uzyskania informacji o zagrożeniach na szlaku wodnym
+d) obowiązkowo dobijamy do statku od strony flagi czerwono-białej w celu uzyskania informacji o zagrożeniach na szlaku wodnym
 51. Statek, który pokazuje z jednej strony czerwoną kulę i z drugiej dwa zielone podwójne stożki to:
 A) statek, lub urządzenie zajęte pracą na wodzie - przepływać od strony zielonych stożków
 b) prom przemieszczający się swobodnie - wytwarza wiry od strony zielonych stożków
@@ -385,11 +378,6 @@ a) Statek zajęty połowem za pomocą prądu
 b) Statek zajęty holowaniem
 c) Statek o ograniczonej zdolności manewrowej
 D) Statek organów kontroli
-79. Statek oznaczony jak obok to:
-A) statek zajęty holowaniem
-b) statek zajęty połowem
-c) statek na kotwicy
-d) statek organów kontroli
 88. Jeżeli dwa jachty żaglowe płyną różnymi halsami i istnieje ryzyko zderzenia to z drogi powinien ustąpić:
 a) jacht, który ma drugi jacht ze swej prawej burty
 b) jacht, który ma drugi jacht ze swej lewej burty

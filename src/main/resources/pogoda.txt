@@ -1,0 +1,330 @@
+1. Izobara to:
+a) linia na mapie łącząca punkty o jednakowej temperaturze
+B) linia na mapie łącząca punkty o jednakowym ciśnieniu
+c) linia na mapie łącząca punkty o jednakowej głębokości
+d) żadna odpowiedź nie jest prawidłowa
+2. Linia na mapie łącząca punkty o jednakowym ciśnieniu to:
+a) izobata
+B) izobara
+c) izoterma
+d) żadna odpowiedź nie jest prawidłowa
+3. Aneroid służy do pomiaru:
+A) ciśnienia
+b) prędkości wiatru
+c) wilgotności
+d) temperatury
+4. Anemometr służy do pomiaru:
+a) temperatury wody
+b) wilgotności
+C) prędkości wiatru
+d) ciśnienia
+5. Higrometr służy do pomiaru:
+a) temperatury
+B) wilgotności
+c) ciśnienia
+d) prędkości wiatru
+6. Ciśnienie 980 hPa panuje:
+A) w niżu
+b) w wyżu
+c) ciśnienie normalne
+d) żadna z odpowiedzi nie jest prawidłowa
+7. Ciśnienie 1013 hPa jest ciśnieniem panującym:
+a) w wyżu
+b) w niżu
+C) ciśnienie normalne
+d) żadna odpowiedź nie jest prawidłowa
+8. Wiatromierz Wilda wskazuje:
+a) siłę wiatru
+B) siłę i kierunek wiatru
+c) kierunek wiatru
+d) średnią siłę wiatru z ostatniej godziny
+9. Największy wpływ na pogodę mają zjawiska i procesy fizyczne zachodzące w:
+a) stratosferze
+B) troposferze
+c) jonosferze
+d) całej atmosferze ziemskiej
+10. Skala Beauforta określa siłę wiatru w zakresie:
+a) od 0°B do 9 °B
+B) od 0°B do 12°B
+c) od 1°B do 12°B
+d) od 1°B do 9°B
+1. Front ciepły występuje w:
+A) niżu
+b) wyżu
+c) niżu i wyżu
+d) nie jest związany z wyżem lub niżem
+2. Front zimny występuje w:
+A) niżu
+b) wyżu
+c) niżu i wyżu
+d) nie jest związany z wyżem lub niżem
+3. Chmura Cirrus ze względu na wysokość występowania zaliczana jest do chmur:
+a) niskich
+b) średnich
+C) wysokich
+d) obejmuje wszystkie wysokości
+4. Chmura Altostratus ze względu na wysokość występowania zaliczana jest do chmur:
+a) niskich
+B) średnich
+c) wysokich
+d) obejmuje wszystkie wysokości
+5. Chmura Cumulonimbus ze względu na wysokość występowania zaliczana jest do chmur:
+a) niskich
+b) średnich
+c) wysokich
+D) obejmuje wszystkie wysokości
+6. Chmura Cirrus ze względu na wysokość występowania zaliczana jest do chmur:
+a) niskich
+b) średnich
+C) wysokich
+d) obejmuje wszystkie wysokości
+7. Chmura Cirrostratus ze względu na budowę zaliczana jest do chmur:
+A) pierzasto-warstwowych
+b) warstwowych
+c) kłębiastych
+d) deszczowo-warstwowych
+8. Chmura Nimbostratus ze względu na budowę zaliczana jest do chmur:
+a) pierzastych
+b) warstwowych
+C) deszczowo- warstwowych
+d) kłębiastych
+9. Chmura Cumulonimbus ze względu na budowę zaliczana jest do chmur:
+a) kłębiastych
+b) deszczowo- warstwowych
+C) kłębiasto-burzowych
+d) pierzasto-kłębiastych
+10. W obszarze wyżu na półkuli północnej wiatry wieją:
+a) od środka wyżu zgodnie z kierunkiem ruchu wskazówek zegara
+B) do środka wyżu zgodnie z kierunkiem ruchu wskazówek zegara
+c) od środka wyżu w kierunku przeciwnym do ruchu wskazówek zegara
+d) do środka wyżu w kierunku przeciwnym do ruchu wskazówek zegara
+11. W obszarze niżu na półkuli północnej wiatry wieją:
+a) do środka niżu zgodnie z kierunkiem ruchu wskazówek zegara
+b) od środka niżu zgodnie z kierunkiem ruchu wskazówek zegara
+c) od środka niżu w kierunku przeciwnym do ruchu wskazówek zegara
+D) do środka niżu w kierunku przeciwnym do ruchu wskazówek zegara
+12. Zakłócenie wiatru typu ”odbicie” powoduje: 12b. Co powoduje uderzenie wiatru o wysoki brzeg:
+A) zmianę kierunku wiatru na przeciwny do wiatru rzeczywistego - wiatr odpychający
+b) nie powoduje zmiany kierunku wiatru
+c) zmianę kierunku wiatru na równoległy do brzegu
+d) zwiększa tylko siłę wiatru
+13. Zakłócenie wiatru typu „zawirowanie” powoduje: 13b. Jak zachowuje się wiatr wiejący znad wysokiego brzegu
+A) zmianę kierunku wiatru na przeciwny do wiatru rzeczywistego - wiatr dopychający do brzegu
+b) zmianę kierunku wiatru na równoległy do brzegu
+c) zwiększa tylko siłę wiatru
+d) nie powoduje zmiany kierunku wiatru
+14. Zakłócenie typu „dysza” powoduje: 14b. Czego żeglarz może się spodziewać w przewężeniu akwenu
+a) zmniejszenie siły wiatru
+B) zwiększenie siły wiatru
+c) zmniejszenie siły i zmianę kierunek wiatru
+d) zwiększenie siły i zmianę kierunek wiatru
+15. Bryza dzienna to wiatr wiejący:
+A) od wody w stronę lądu
+b) od lądu w stronę wody
+c) równolegle do linii brzegu
+d) z zachodu na wschód
+16. Bryza nocna to wiatr wiejący:
+a) od wody w stronę lądu
+B) od lądu w stronę wody
+c) równolegle do linii brzegu
+d) ze wschodu na zachód
+1. Drobne zmarszczki na wodzie o wyglądzie łuski wywołuje wiatr o sile:
+a) 0 B
+B) 1 B
+c) 2 B
+d) 3 B
+2. Słaby wiatr powodujący drobne fale - prędkość wiatru 1,6 - 3,3 m/s - odpowiada sile wiatru:
+a) 4 B
+b) 3 B
+C) 2 B
+d) 1 B
+3. Łagodny wiatr poruszający liście, wywołujący małe fale - prędkość wiatru 3,4 - 5,4 m/s - odpowiada sile wiatru:
+a) 4 B
+B) 3 B
+c) 2 B
+d) 1 B
+4. Umiarkowany wiatr poruszający gałązkami, powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s - odpowiada sile wiatru:
+a) 2 B
+b) 3 B
+C) 4 B
+d) 5 B
+5. Dość silny (świeży) wiatr poruszający większymi gałązkami powodujący gęste grzebienie - prędkość wiatru 8,0 - 10,7 m/s - odpowiada sile wiatru:
+a) 3 B
+b) 4 B
+C) 5 B
+d) 6 B
+6. Silny wiatr poruszający grubymi gałęziami, powodujący grzywacze - prędkość wiatru 10,8 - 13,8 m/s - odpowiada sile wiatru:
+a) 7 B
+B) 6 B
+c) 5 B
+d) 4 B
+7. Bardzo silny wiatr poruszający cieńszymi pniami drzew powodujący pasma piany - prędkość wiatru 13,9 - 17,1 m/s - odpowiada sile wiatru:
+A) 7 B
+b) 6 B
+c) 5 B
+d) 8 B
+8. Wiatr o sile 6 B to:
+a) Bardzo silny wiatr poruszający cieńszymi pniami drzew powodujący pasma piany – prędkość wiatru 13,9 - 17,1 m/s
+B) Silny wiatr poruszający grubymi gałęziami powodujący grzywacze - prędkość wiatru 10,8 - 13,8 m/s
+c) Dość silny (świeży) wiatr poruszający większymi gałązkami powodujący gęste grzebienie - prędkość wiatru 8,0 - 10,7 m/s
+d) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+9. Wiatr o sile 5 B to:
+a) Bardzo silny wiatr poruszający cieńszymi pniami drzew powodujący pasma piany - prędkość wiatru 13,9 - 17,1 m/s
+b) Silny wiatr poruszający grubymi gałęziami powodujący grzywacze - prędkość wiatru 10,8 - 13,8 m/s
+C) Dość silny (świeży) wiatr poruszający większymi gałązkami powodujący gęste grzebienie - prędkość wiatru 8,0 - 10,7 m/s
+d) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+10. Wiatr o sile 4 B to:
+a) Bardzo silny wiatr poruszający cieńszymi pniami drzew powodujący pasma piany - prędkość wiatru 13,9 - 17,1 m/s
+b) Silny wiatr poruszający grubymi gałęziami powodujący grzywacze - prędkość wiatru 10,8 - 13,8 m/s
+c) Dość silny (świeży) wiatr poruszający większymi gałązkami powodujący gęste grzebienie - prędkość wiatru 8,0 - 10,7 m/s
+D) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+11. Wiatr o sile 3 B to:
+a) Drobne zmarszczki na wodzie, prędkość wiatru 0,3 - 1,5 m/s
+b) Słaby wiatr powodujący drobne fale - prędkość wiatru 1,6 - 3,3 m/s
+C) Łagodny wiatr poruszający liście, wywołujący drobne fale - prędkość wiatru 3,4 - 5,4 m/s
+d) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+12. Wiatr o sile 2 B to:
+a) Drobne zmarszczki na wodzie, prędkość wiatru 0,3 - 1,5 m/s
+B) Słaby wiatr powodujący drobne fale – prędkość wiatru 1,6 - 3,3 m/s
+c) Łagodny wiatr poruszający liście, wywołujący drobne fale - prędkość wiatru 3,4 - 5,4 m/s
+d) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+13. Wiatr o sile 1 B to:
+A) Drobne zmarszczki na wodzie przy unoszącym się prawie pionowo dymie - prędkość wiatru 0,3 - 1,5 m/s
+b) Słaby wiatr odczuwany jako powiew powodujący drobne fale - prędkość wiatru 1,6 - 3,3 m/s
+c) Łagodny wiatr poruszający liście, wywołujący drobne fale - prędkość wiatru 3,4 - 5,4 m/s
+d) Umiarkowany wiatr poruszający gałązkami powodujący piankę, plusk fali - prędkość wiatru 5,5 - 7,9 m/s
+14. Sztorm to wiatr o sile od:
+a) 7 B
+B) 8 B
+c) 9 B
+d) 10 B
+1. Dobrą pogodę zwiastuje:
+A) czysty jasny widnokrąg podczas wschodu słońca
+b) systematyczny spadek ciśnienia
+c) mgła podnosząca się i tworząca obłoki
+d) nisko latające ptaki
+2. Dobrą pogodę zwiastują:
+a) wzrost siły wiatru pod wieczór i w nocy
+B) wyraźne bryzy
+c) dym ścielący się po wodzie przy bezdeszczowej pogodzie
+d) halo wokół słońca
+3. Dobrą pogodę zwiastuje:
+a) halo wokół słońca
+b) wzrost siły wiatru pod wieczór i w nocy
+c) nisko latające ptaki
+D) zanikanie pod wieczór chmur kłębiastych
+4. Dobrą pogodę zwiastuje:
+a) wzrost siły wiatru pod wieczór i w nocy
+b) systematyczny spadek ciśnienia
+C) czerwony zachód słońca
+d) nisko latające ptaki
+5. Dobrą pogodę zwiastuje:
+A) obfita rosa rano i wieczorem
+b) halo wokół słońca
+c) systematyczny spadek ciśnienia
+d) dym ścielący się po wodzie przy bezdeszczowej pogodzie
+6. Dobrą pogodę zwiastuje:
+A) wiatr tężejący w południe, a cichnący nad ranem i wieczorem
+b) wzrost siły wiatru pod wieczór i w nocy
+c) dym ścielący się po wodzie przy bezdeszczowej pogodzie
+d) systematyczny spadek ciśnienia
+7. Dobrą pogodę zwiastuje:
+a) halo wokół słońca
+b) systematyczny spadek ciśnienia
+C) utrzymywanie lub podnoszenie się ciśnienia
+d) nisko latające ptaki
+8. Dobrą pogodę zwiastuje:
+a) dym ścielący się po wodzie przy bezdeszczowej pogodzie
+b) wzrost siły wiatru pod wieczór i w nocy
+C) mgła opadająca nad ranem
+d) systematyczny spadek ciśnienia
+9. Pogorszenie pogody zwiastuje:
+a) mgła opadająca nad ranem
+b) utrzymywanie lub podnoszenie się ciśnienia
+C) systematyczny spadek ciśnienia
+d) wiatr tężejący w południe, a cichnący nad ranem i wieczorem
+10. Pogorszenie pogody zwiastuje:
+a) obfita rosa rano i wieczorem
+B) wzrost siły wiatru ze zmianą jego kierunku pod wieczór i w nocy
+c) czerwony zachód słońca
+d) czysty jasny widnokrąg podczas wschodu słońca
+11. Pogorszenie pogody zwiastuje:
+a) wyraźne bryzy
+b) czerwony zachód słońca
+c) zanikanie pod wieczór chmur kłębiastych
+D) dym ścielący się po wodzie przy bezdeszczowej pogodzie
+12. Pogorszenie pogody zwiastuje:
+A) nisko latające ptaki
+b) utrzymywanie lub podnoszenie się ciśnienia
+c) zanikanie pod wieczór chmur kłębiastych
+d) mgła opadająca nad ranem
+13. Pogorszenie pogody zwiastuje:
+a) czerwony zachód słońca
+B) mgła podnosząca się i tworząca obłoki
+c) mgła opadająca nad ranem
+d) zanikanie pod wieczór chmur kłębiastych
+14. Pogorszenie pogody zwiastuje:
+A) halo wokół słońca lub księżyca
+b) utrzymywanie lub podnoszenie się ciśnienia
+c) zanikanie pod wieczór chmur kłębiastych
+d) mgła opadająca nad ranem
+1. Określenie w komunikacie meteo „Ostrzeżenie przed silnym wiatrem” dotyczy wiatru o sile:
+a) 5°B
+B) 6°B
+c) 7°B
+d) 8°B
+2. Gdzie należy szukać komunikatów meteo pływając po polskich jeziorach
+a) nasłuchując Radio- Gdynia na UKF
+B) w radiu - najczęściej po wiadomościach, w Internecie, w telefonie komórkowym
+c) na odbiorniku NAVTEX w który powinien być wyposażony jacht
+d) w miesięczniku „Żagle”
+3. Kto jest odpowiedzialny na jachcie za bieżący odbiór komunikatów meteo:
+a) załogant posiadający radioodbiornik
+B) prowadzący jacht – kierownik statku
+c) bosman w marinie
+d) armator jachtu
+4. Z jakich elementów składa się klasyczny komunikat meteo dla żeglarzy:
+a) sytuacja baryczna; prognoza na 12 godzin
+b) sytuacja baryczna; prognoza na 12 godzin; prognoza na następne 12 godzin
+C) sytuacja baryczna i ostrzeżenie o silnym wietrze lub sztormie; prognoza na 12 godzin; prognoza na następne 12
+d) sytuacja baryczna; prognoza na 12 godzin; ostrzeżenia nawigacyjne
+1. Najczęstszym miejscem występowania cumulonimbusa są
+a) ośrodek wyżowy
+b) front ciepły
+C) front zimny
+d) front stacjonarny
+2. Najczęstszym miejscem występowania cumulonimbusa są
+A) front zokludowany
+b) front ciepły
+c) front stacjonarny
+d) ośrodek wyżowy
+3. Cumulonimbus może wystąpić poza frontami
+A) w masach powietrza wilgotnego i ciepłego najczęściej w godzinach popołudniowych
+b) w masach powietrza zimnego i suchego nad ranem
+c) w centrum wyżu
+d) występuje tylko we frontach
+4. Cumulonimbusowi towarzyszą
+a) spadek siły wiatru i rozpogodzenie
+b) ustabilizowanie kierunku i siły wiatru
+C) gwałtowny wzrost siły wiatru z zachmurzeniem
+d) wzrost temperatury wraz z stopniowym wzrostem siły wiatru
+5. Front zokludowany charakteryzuje się zazwyczaj
+a) ustabilizowaniem się kierunku wiatru wraz z postępującym rozpogodzeniem
+B) gwałtownym wzrostem siły wiatru wraz z zmianą jego kierunku
+c) powolnym spadkiem siły wiatru aż do jego zaniku
+d) brakiem opadów i ciepłym suchym wiatrem
+6. Front ciepły charakteryzuje się zazwyczaj
+A) powolnymi zmianami temperatury, stopniowo zwiększającym się zachmurzeniem, zwiększającymi się opadami typu mżawka i deszcz, mgłami
+b) gwałtownym wzrostem siły wiatru i przelotnymi gwałtownymi opadami
+c) pojedynczymi chmurami i szkwałami,z szybkimi zmianami temperatury
+d) suchym i porywistym wiatrem z południa
+7. Front zimny charakteryzuje się
+a) powolnymi zmianami temperatury, stopniowo zwiększającym się zachmurzeniem, zwiększającymi się opadami typu mżawka i deszcz, mgłami
+B) gwałtownym wzrostem siły wiatru i przelotnymi gwałtownymi opadami, wyładowaniami
+c) ciepłym, suchym i porwistym wiatrem z południa
+d) zimnym wiatrem z północy przy słonecznej pogodzie
+8. Pojawienie się chmury Cumulonimbus zapowiada:
+a) długotrwały deszcz
+b) piękną pogodę
+C) burze i porywiste wiatry
+d) bezwietrzną pogodę z mżawką
